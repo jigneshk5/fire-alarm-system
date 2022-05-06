@@ -7,7 +7,7 @@
 
 ## SYSTEM ARCHITECTURE
 
-![](arc.png)
+![](arc3.png)
 
 
 ## LINK FOR WRITTEN BLOG
